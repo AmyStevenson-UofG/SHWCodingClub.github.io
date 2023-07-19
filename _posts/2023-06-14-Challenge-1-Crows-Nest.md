@@ -12,6 +12,8 @@ This challenge is from the [Tiny Python Projects](http://tinypythonprojects.com/
 | Coder | Language | Repo |
 |-------|----------|------|
 | Andy Baxter | Java | [Java_crows_nest](https://github.com/andrewbaxter439/Java_crows_nest) |
+|Amy Stevenson | R | [Coding_club_project_1.R] (https://github.com/AmyStevenson-UofG/Coding_club/blob/main/Coding_club_project_1.R) |
+
 
 
 # Crow's Nest Challenge brief
